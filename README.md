@@ -1,11 +1,11 @@
 <h1 align="center">Hi👋, Im Piero Mendieta</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
-- 🌱 I'm currently learning **React**
+- 🌱 I'm currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at direccion.com
+- 👨‍💻 All of my projects are available at github.com/PieroMS
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ,Sass, MySQL, Git/Github**
+- 💬 Ask me about **HTML, CSS, JavaScript, SASS, MySQL, Git/Github**
 
 - 📫 How to reach me **piero.mendieta6@gmail.com**
 
