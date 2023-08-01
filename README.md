@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, SASS, MySQL, Git/Github**
 
-- 📫 How to reach me **piero.mendieta6@gmail.com**
+- 📫 How to reach me **piero.job01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
