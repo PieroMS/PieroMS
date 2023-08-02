@@ -3,7 +3,7 @@
 
 - 🌱 I'm currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at github.com/PieroMS
+- 👨‍💻 All of my projects are available at https://pieroms.github.io/Portfolio/
 
 - 💬 Ask me about **HTML, CSS, JavaScript, SASS, MySQL, Git/Github**
 
