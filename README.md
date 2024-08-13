@@ -3,9 +3,9 @@
 
 - 🌱 I'm currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at https://pieroms.github.io/Portfolio/
+- 👨‍💻 All of my projects are available at :v
 
-- 💬 Ask me about **HTML, CSS, JavaScript, SASS, MySQL, Git/Github**
+- 💬 Ask me about **HTML*
 
 - 📫 How to reach me **piero.job01@gmail.com**
 
