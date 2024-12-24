@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, Im Piero Mendieta</h1>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/20c0b48c-2357-42d0-9b75-487dfb7b390a">
-  <!--![banner](https://github.com/user-attachments/assets/20c0b48c-2357-42d0-9b75-487dfb7b390a)-->
+  <img src="https://github.com/user-attachments/assets/1c716bd7-01b7-4b4a-830c-c0ae24d0a594">
+  <!-- ![banner](https://github.com/user-attachments/assets/1c716bd7-01b7-4b4a-830c-c0ae24d0a594) -->
   <!--LA IMAGEN LA PUEDES DESCARGAR, ARRAASTRAR AQUI, EL LINK QUE TE BOTA VA EN EL SRC DE LA ETIQUETA IMG-->
 </div>
 <h3 align="center">A passionate frontend developer from Peru</h3>
