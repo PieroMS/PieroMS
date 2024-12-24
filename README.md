@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, Im Piero Mendieta</h1>
 <div align="center">
-  <img src="https://tech497071659.wordpress.com/wp-content/uploads/2020/04/2488654_e156_3.jpg?w=750">
+  <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221222184908/web-development1.png">
 </div>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
