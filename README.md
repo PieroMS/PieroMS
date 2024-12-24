@@ -1,9 +1,9 @@
 <h1 align="center">Hi👋, Im Piero Mendieta</h1>
 <div align="center">
   <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221222184908/web-development1.png">
-  <img src="https://github.com/user-attachments/assets/599f2248-7293-438b-93d8-abffb62b077a">
-  ![banner1](https://github.com/user-attachments/assets/599f2248-7293-438b-93d8-abffb62b077a)
-
+  <img src="https://github.com/user-attachments/assets/20c0b48c-2357-42d0-9b75-487dfb7b390a">
+  <!--![banner](https://github.com/user-attachments/assets/20c0b48c-2357-42d0-9b75-487dfb7b390a)-->
+  <!--LA IMAGEN LA PUEDES DESCARGAR, ARRAASTRAR AQUI, EL LINK QUE TE BOTA VA EN EL SRC DE LA ETIQUETA IMG-->
 </div>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
