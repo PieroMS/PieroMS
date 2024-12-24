@@ -1,4 +1,7 @@
 <h1 align="center">Hi👋, Im Piero Mendieta</h1>
+<div align="center">
+  <img src="https://www.freepik.es/fotos-vectores-gratis/banner">
+</div>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
 - 🌱 I'm currently learning **JavaScript**
