@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, Im Piero Mendieta</h1>
 <div align="center">
-  <img src="https://www.optimalvirtualemployee.com/wp-content/uploads/2022/12/Web-Developer-skill-1024x582.jpg">
+  <img src="https://tech497071659.wordpress.com/wp-content/uploads/2020/04/2488654_e156_3.jpg?w=750">
 </div>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
