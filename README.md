@@ -6,17 +6,17 @@
 <h1>¡¡ Hola👋 !! Soy Piero</h1>
 <h3>Desarrollador Web</h3>
 
-- 👨‍💻 Con más de 1 año de experiencia desarollando diversos proyectos.
+- 👨‍💻 Desarrollador web con más de un año de experiencia, enfocado principalmente en el desarrollo backend.
 
-- 🧩 Especializado en el desarrollo de APIs RESTful usando Laravel.
+- 🧩 Especializado en la creación de APIs RESTful con Laravel e integración con frontends modernos usando Vue.js.
 
-- 🛠 Experiencia con Scrum y manejo de control de versiones utilizando Git.
+- 🛠  Experiencia trabajando con Scrum y control de versiones utilizando Git.
 
-- 🤝 Disfruto trabajar en equipo, compartiendo conocimientos y aprendiendo de mis compañeros.
+- 🤝 Capacidad para colaborar en equipos multidisciplinarios, compartir conocimientos y adaptarse a nuevos entornos tecnológicos.
 
-- 🚀 Curioso por aprender y explorar nuevas tecnologías.
+- 🚀 Actualmente desarrollo proyectos full-stack con Laravel y Vue, buscando siempre ofrecer soluciones escalables y eficientes.
 
-- 💪🏼 Actualmente enfocado en mejorar mis habilidades en React y TypeScript.
+- 📚 En constante aprendizaje para reforzar mis habilidades y explorar nuevas tecnologías del ecosistema web.
 
 <h1>Tecnologías 💻</h1>
 
