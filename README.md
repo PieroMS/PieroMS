@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1c716bd7-01b7-4b4a-830c-c0ae24d0a594">
-  <!-- ![banner](https://github.com/user-attachments/assets/1c716bd7-01b7-4b4a-830c-c0ae24d0a594) -->
+  <!-- <img src="https://github.com/user-attachments/assets/1c716bd7-01b7-4b4a-830c-c0ae24d0a594"> -->
+  <img src="https://github.com/user-attachments/assets/b6fb963e-1b97-42e7-b43f-b6d87ea3df2e">
   <!--LA IMAGEN LA PUEDES DESCARGAR, ARRAASTRAR AQUI, EL LINK QUE TE BOTA VA EN EL SRC DE LA ETIQUETA IMG-->
 </div>
 <h1>¡¡ Hola👋 !! Soy Piero</h1>
 <h3>Desarrollador Web</h3>
+
 
 - 👨‍💻 Desarrollador web con más de un año de experiencia, enfocado principalmente en el desarrollo backend.
 
