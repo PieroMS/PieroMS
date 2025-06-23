@@ -4,7 +4,7 @@
   <!--LA IMAGEN LA PUEDES DESCARGAR, ARRAASTRAR AQUI, EL LINK QUE TE BOTA VA EN EL SRC DE LA ETIQUETA IMG-->
 </div>
 <h1>¡¡ Hola👋 !! Soy Piero</h1>
-<h3>Desarrollador Web</h3>
+<h3 style="color: #ff6d72;">Desarrollador Web</h3>
 
 
 - 👨‍💻 Desarrollador web con más de un año de experiencia, enfocado principalmente en el desarrollo backend.
